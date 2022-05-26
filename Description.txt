@@ -1,0 +1,1 @@
+Every Code requires to insert a bmp picture to edit and another bmp pic to save into it where every code edits a black and white picture.
